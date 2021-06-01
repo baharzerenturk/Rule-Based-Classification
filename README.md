@@ -1,6 +1,6 @@
 # Rule-Based-Classification
 
-![resim](https://zeynepozturkk.files.wordpress.com/2018/04/datamining.jpg?w=640)
+![resim](https://dotcom.nlcdn.com/wp-content/uploads/2019/10/Market-Segmentation_Twitter-1200x628@2x-80-min.jpg)
 
 ## History of Project:
 There is a game company and we are trying to create new customer descriptions(persona) with using these customers specifications. According to these new descriptions, we should create customer segments. We need to predict how much money customers will make to the company by using segments.
